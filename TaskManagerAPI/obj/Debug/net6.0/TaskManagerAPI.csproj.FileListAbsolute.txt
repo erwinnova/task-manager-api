@@ -41,3 +41,4 @@ D:\Lamaran Kerja\Kazokku\TaskManagerAPI\TaskManagerAPI\obj\Debug\net6.0\refint\T
 D:\Lamaran Kerja\Kazokku\TaskManagerAPI\TaskManagerAPI\obj\Debug\net6.0\TaskManagerAPI.pdb
 D:\Lamaran Kerja\Kazokku\TaskManagerAPI\TaskManagerAPI\obj\Debug\net6.0\TaskManagerAPI.genruntimeconfig.cache
 D:\Lamaran Kerja\Kazokku\TaskManagerAPI\TaskManagerAPI\obj\Debug\net6.0\ref\TaskManagerAPI.dll
+D:\Lamaran Kerja\Kazokku\TaskManagerAPI\TaskManagerAPI\obj\Debug\net6.0\TaskManagerAPI.sourcelink.json
